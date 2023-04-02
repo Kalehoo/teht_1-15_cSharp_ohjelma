@@ -1,0 +1,7 @@
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\bin\Debug\teht_1-15_cSharp_ohjelma.exe.config
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\bin\Debug\teht_1-15_cSharp_ohjelma.exe
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\bin\Debug\teht_1-15_cSharp_ohjelma.pdb
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\obj\Debug\teht_1-15_cSharp_ohjelma.csproj.AssemblyReference.cache
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\obj\Debug\teht_1-15_cSharp_ohjelma.csproj.CoreCompileInputs.cache
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\obj\Debug\teht_1-15_cSharp_ohjelma.exe
+C:\Users\Slav!\source\repos\teht_1-15_cSharp_ohjelma\teht_1-15_cSharp_ohjelma\obj\Debug\teht_1-15_cSharp_ohjelma.pdb
